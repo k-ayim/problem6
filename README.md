@@ -18,6 +18,3 @@ This Java program calculates the exponentiation of a number using recursion.
 
 The time complexity of the `power` method is O(n), where n is the exponent. This is because the method makes n recursive calls until the exponent becomes 0, resulting in linear growth.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
